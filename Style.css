@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+/* Body */
+body
+{
+    font-family: 'Comfortaa';
+}
+
+/* Header */
+#Header
+{
+	background: #35a5e1;
+}
+
+/* Header Title */
+#HeaderTitle
+{
+	font-family: 'Indie Flower';
+	font-size: 26px;
+	color: white;
+	text-decoration: underline;
+}
+
+/* Field Select Labels */
+.mdl-selectfield__label
+{
+	font-family: 'Comfortaa';
+	font-size: 16px;
+	color: white;
+}
+
+/* Field Select Select */
+.mdl-selectfield__select
+{
+	font-family: 'Comfortaa';
+	font-size: 16px;
+	border-radius: 5px;
+	border: 0px;
+	margin-left: 5px;
+	margin-right: 20px;
+	margin-top: 0px;
+	height: 18px;
+}
+
+/* Search */
+#Search
+{
+	width: 85px;
+	height: 18px;
+	color: white;
+	border-radius: 5px;
+	text-align: center;
+	cursor: pointer;
+}
+
+#Search:hover
+{
+	background: white;
+	color: #35a5e1;
+}
+
+/* Title */
+.Titles
+{
+	font-family: 'Comfortaa';
+	font-size: 26px;
+	text-align: center;
+	margin-bottom: 35px;
+}
+
+/* Content Elements */
+.ContentElement
+{
+	font-family: 'Comfortaa';
+	font-size: 16px;
+	text-align: center;	
+	margin-bottom: 35px;
+}
